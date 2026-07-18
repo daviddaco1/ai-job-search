@@ -97,6 +97,7 @@ fields manually.
 For every candidate:
 - Skip if the URL or company+title combo already exists in `seen_jobs.json`
 - Skip if the company+role already appears in `job_search_tracker.csv`
+- Skip if the posting's own text (title + description) is written in English — see the Language Filter in `search-queries.md`. A posting written in English signals the recruiter will expect English fluency even when no language requirement is stated outright. **Exception:** if the posting's text explicitly says English is not required, or that only basic English is needed, it passes despite being in English — flag this exception when presenting the job. Record excluded postings in `seen_jobs.json` as `status: "skipped"` like any other filtered-out posting rather than silently dropping them.
 
 ### Step 3: Quick Fit Assessment
 
@@ -202,6 +203,7 @@ If the user decides to apply to any job, add a row to `job_search_tracker.csv`.
 2. **Respect deduplication.** Always check seen_jobs.json AND job_search_tracker.csv before presenting.
 3. **Focus on configured geographic area.** Skip jobs that require relocation or are clearly outside commute range.
 4. **Only open positions.** Skip postings with expired deadlines or those marked as closed.
-5. **Be efficient with detail fetches.** Don't run `detail` or WebFetch on every search hit — pre-filter by title/snippet, then fetch only promising matches.
-6. **Parallel searches.** Run portal CLI searches in parallel; use WebSearch only for gaps the CLIs don't cover.
-7. **No automated people lookups.** Referral contacts (Step 4.5) are LinkedIn search links only - never fetch or scrape LinkedIn people-search result pages programmatically.
+5. **Skip English-language postings, unless the posting itself says English isn't required.** A vacancy written entirely in English implies the recruiter expects English fluency, even if no language requirement is stated — treat this like the location deal-breaker and exclude it, unless the posting's own text explicitly states no English or only basic English is required (see Language Filter in `search-queries.md`).
+6. **Be efficient with detail fetches.** Don't run `detail` or WebFetch on every search hit — pre-filter by title/snippet, then fetch only promising matches.
+7. **Parallel searches.** Run portal CLI searches in parallel; use WebSearch only for gaps the CLIs don't cover.
+8. **No automated people lookups.** Referral contacts (Step 4.5) are LinkedIn search links only - never fetch or scrape LinkedIn people-search result pages programmatically.

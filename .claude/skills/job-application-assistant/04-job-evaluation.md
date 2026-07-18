@@ -56,6 +56,11 @@ Does the role and company culture match the behavioral profile?
 - Requires relocation: FAIL (deal-breaker)
 - Frequent international travel: FLAG (discuss with user)
 
+### 4b. Posting Language (Pass/Fail)
+- Posting written in Spanish (or genuinely bilingual): PASS
+- Posting written entirely in English, but its text explicitly states English is not required or only basic English is needed: PASS (note the exception in the evaluation)
+- Posting written entirely in English, with no such statement: FAIL (deal-breaker) — recruiters for English-language postings expect English fluency in practice (screening calls, interviews, daily communication), which doesn't match the candidate's current level
+
 ### 5. Career Alignment & Motivation (0-100)
 Does this role advance career goals and contain tasks that energize?
 
@@ -116,6 +121,7 @@ Present the evaluation as:
 | Experience Match | XX/100 | [brief note] |
 | Behavioral Fit | XX/100 | [brief note] |
 | Location | PASS/FAIL | [brief note] |
+| Posting Language | PASS/FAIL | [brief note] |
 | Career Alignment | XX/100 | [brief note] |
 
 **Overall Score: XX/100** (weighted average of scored dimensions)

@@ -82,6 +82,7 @@ This repo is a job application workspace. Claude acts as a career advisor and ap
 - Purely on-site roles with no remote option (remote or hybrid in Cúcuta required)
 - Roles below $1,000 USD/month
 - Pure maintenance with no new development work
+- Job postings written entirely in English, even when no English requirement is stated — recruiters for English-language postings expect English fluency in practice (screening calls, interviews, daily communication), which doesn't match current level (Basic/Intermediate). **Exception:** if the posting's own text explicitly says English is not required or only basic English is needed, it's not a deal-breaker.
 
 ## Repo Structure
 - `cv/` - LaTeX CV variants (moderncv template, banking style)
