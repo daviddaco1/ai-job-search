@@ -1,3 +1,7 @@
+---
+framework_version: 1.0.0
+---
+
 # Behavioral Profile
 
 <!-- Populated from LinkedIn About section and CV work history. Items marked [Inferred] should be reviewed critically before relying on them in applications. -->

@@ -4,9 +4,15 @@
 <!-- Location: San José de Cúcuta, Colombia — Remote or local Cúcuta only -->
 <!-- Salary minimum: $1,000 USD/month -->
 
+## Installed portal CLIs (primary for `/scrape`)
+
+`/scrape` discovers every portal skill under `.agents/skills/*/SKILL.md` and runs its CLI first. Shipped country-agnostic CLIs include `linkedin-search` and `freehire-search`; Danish demos and any skill you add with `/add-portal` are included the same way. You do **not** need a matching `site:` line below for those CLIs to run.
+
+The `site:` query templates in this file are the **WebSearch fallback** — for portals without a CLI, company career pages, or when a CLI fails.
+
 ## Search Sites
 
-Primary:
+Primary (also covered by `linkedin-search` CLI; scaffold more with `/add-portal`):
 - **linkedin.com/jobs** — LinkedIn (filter: Remote / Colombia / Worldwide)
 - **indeed.com** — Indeed (filter: Remote / "Cúcuta" / "Colombia")
 - **Facebook groups** — Colombian dev communities (e.g. "Desarrolladores Colombia", "Unity Developers Colombia", "Node.js Colombia", "Remote Jobs Colombia")
