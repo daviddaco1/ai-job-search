@@ -16,9 +16,9 @@ How well do the required/preferred skills align with the candidate's capabilitie
 | 40-59 | Partial match, significant upskilling needed |
 | 0-39 | Fundamental mismatch |
 
-**Strong match areas:** [YOUR_PRIMARY_SKILLS]
-**Moderate match areas:** [YOUR_SECONDARY_SKILLS]
-**Weak match areas:** [SKILLS_YOU_LACK]
+**Strong match areas:** Unity (2D/3D), C#, Node.js, REST APIs, WebSockets, Go High Level, gameplay mechanics, enemy AI, CRM/SaaS automation, API integration
+**Moderate match areas:** SQL, Docker, IT Security, UI/UX design, Blender 3D, systems distribution, workflow automation, frontend web development
+**Weak match areas:** Pure enterprise .NET without game context, cloud-native (AWS/Azure/GCP), React/Angular/Vue, ML/AI, native mobile (iOS/Android Swift/Kotlin), blockchain/Solidity (exploratory only)
 
 ### 2. Experience Match (0-100)
 Does work history align with what they're looking for?
@@ -30,9 +30,9 @@ Does work history align with what they're looking for?
 | 40-59 | Adjacent experience, would need to make the case |
 | 0-39 | Unrelated experience |
 
-**Strong:** [YOUR_DIRECT_EXPERIENCE_DOMAINS]
-**Moderate:** [YOUR_ADJACENT_EXPERIENCE]
-**Entry-level:** [ROLES_WITH_LIMITED_EXPERIENCE]
+**Strong:** Game development (2D/3D Unity, mobile/desktop), backend API development (Node.js/WebSockets), CRM and business automation (Go High Level), real-time systems
+**Moderate:** Full-stack web development, IT security and infrastructure, desktop application development
+**Entry-level:** Pure DevOps, enterprise architecture, technical consulting, project management
 
 ### 3. Behavioral/Culture Fit (0-100)
 Does the role and company culture match the behavioral profile?
@@ -63,19 +63,19 @@ Does this role advance career goals and contain tasks that energize?
 | 0-39 | Dead end or backwards step |
 
 **Career goals:**
-- [YOUR_CAREER_GOAL_1]
-- [YOUR_CAREER_GOAL_2]
-- [YOUR_CAREER_GOAL_3]
+- Keep multiple technical directions active: game dev (Unity), backend (Node.js), and automation (GHL) — not narrowing prematurely
+- Grow toward more architectural and system-design responsibility over time
+- Build toward international remote work with stable income above $1,000 USD/month
 
 **Motivation filter:** Evaluate not just whether you *can* do the tasks, but whether the tasks will *energize* you. Consider:
-- Tasks that energize: [YOUR_ENERGIZING_TASKS]
-- Tasks that drain: [YOUR_DRAINING_TASKS]
+- Tasks that energize: testing and integrating APIs, exploring new functionalities, building systems that work end-to-end, real-time communication challenges
+- Tasks that drain: pure maintenance with no new development, repetitive bureaucratic processes
 - Non-task factors: leadership style, department culture, company values, degree of autonomy
 
 **Life situation alignment:** Consider personal constraints:
-- **Security**: [YOUR_FINANCIAL_SITUATION_CONTEXT]
-- **Flexibility**: [YOUR_SCHEDULE_CONSTRAINTS]
-- **Professional development**: [YOUR_GROWTH_PRIORITIES]
+- **Security**: Minimum $1,000 USD/month; currently employed so not in urgency — can be selective
+- **Flexibility**: Remote or in Cúcuta; no relocation required
+- **Professional development**: Wants to keep breadth across game dev, backend, and automation rather than over-specializing
 
 ### 6. Salary Benchmark (Optional)
 

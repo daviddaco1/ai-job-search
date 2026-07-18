@@ -106,11 +106,14 @@ Write 5-7 lines that function as an "elevator pitch": a concise, compelling intr
 **Create 2-3 profile statement templates for your main role types:**
 
 <!-- SETUP: These are populated based on your background -->
-**For [YOUR_PRIMARY_ROLE_TYPE] roles:**
-> [YOUR_PROFILE_STATEMENT_TEMPLATE_1]
+**For Game Developer / Unity roles:**
+> Software Engineer with 6+ years building 2D/3D games and real-time backend systems. Experienced in Unity (C#), gameplay mechanics, enemy AI, and UI/UX across mobile and desktop platforms. Delivered production-ready features at Mega Cat Studios and ThunderShark, combining rapid prototyping with robust multiplayer infrastructure (Photon, Nakama). Brings a full-stack perspective: equally comfortable designing gameplay systems and engineering the Node.js backend that supports them.
 
-**For [YOUR_SECONDARY_ROLE_TYPE] roles:**
-> [YOUR_PROFILE_STATEMENT_TEMPLATE_2]
+**For Full Stack / Backend Developer roles:**
+> Full Stack Engineer with 6+ years delivering backend systems, APIs, and real-time architectures across game development and SaaS automation. Proficient in Node.js, C#, REST APIs, WebSockets, and SQL, with hands-on experience building scalable client-server communication layers. Currently engineering automated workflows, CRM pipelines, and SaaS modules at Bulldog Studio. Combines systems thinking with practical delivery across the full stack — from database design to administrative frontend.
+
+**For CRM / Automation / GHL roles:**
+> Software Engineer specializing in business automation and CRM development with Go High Level. Built and optimized end-to-end digital systems: automated workflows, API integrations, lead generation pipelines, and custom SaaS functionalities that directly increased client lead generation and reduced manual tasks. Backed by 6+ years of software engineering across game development, backend systems, and web applications — bringing both technical depth and a results-first mindset to automation projects.
 
 ### Core Competencies / Skills Section (Best Practice)
 Reorder and emphasize based on the role. Use bold category labels.

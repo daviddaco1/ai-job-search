@@ -1,50 +1,54 @@
 # Behavioral Profile
 
-<!-- SETUP: This file is populated by running /setup -->
-<!-- You can use results from PI, DISC, Myers-Briggs, StrengthsFinder, or a self-assessment -->
+<!-- Populated from LinkedIn About section and CV work history. Items marked [Inferred] should be reviewed critically before relying on them in applications. -->
 
 ## Overview
-[YOUR_NAME]'s behavioral assessment identifies them as a **[PROFILE_TYPE]** pattern. [1-2 SENTENCE_SUMMARY].
+David's profile suggests a **pragmatic builder** pattern: someone who moves from idea to working product quickly, comfortable spanning game client, backend, and automation layers within the same project, and focused on delivering visible results. *[Inferred from LinkedIn About + CV impact statements]*
 
 ## Core Behavioral Drives
 
 | Drive | Level | Meaning |
 |-------|-------|---------|
-| [DRIVE_1] | [LEVEL] | [DESCRIPTION] |
-| [DRIVE_2] | [LEVEL] | [DESCRIPTION] |
-| [DRIVE_3] | [LEVEL] | [DESCRIPTION] |
-| [DRIVE_4] | [LEVEL] | [DESCRIPTION] |
+| Results focus | High | Consistently frames contributions in terms of measurable impact |
+| Technical breadth | High | Spans game dev, backend, and automation — not siloed by discipline |
+| Autonomy | Moderate-High | Performs well with clear goals and execution freedom |
+| Collaboration | Moderate | Works with multidisciplinary and international teams |
 
 ## Strongest Behaviors
-- **[BEHAVIOR_1]:** [DESCRIPTION]
-- **[BEHAVIOR_2]:** [DESCRIPTION]
-- **[BEHAVIOR_3]:** [DESCRIPTION]
 
-## How You Work Best
-- [ENVIRONMENT_PREFERENCE_1]
-- [ENVIRONMENT_PREFERENCE_2]
-- [ENVIRONMENT_PREFERENCE_3]
+- **Outcome-oriented:** Every role on the CV leads with impact ("more stable architecture", "increased lead generation", "faster development cycles"). *[Inferred from CV + LinkedIn]*
+- **Cross-layer technical thinking:** Delivered both game client features and the Node.js backend in the same role at ThunderShark — shows comfort spanning the full technical stack. *[Inferred from CV]*
+- **Remote and international work:** Collaborated with international teams at Coinary LTD, demonstrating asynchronous communication and self-direction. *[Inferred from LinkedIn + CV]*
+
+## How David Works Best
+- On projects with a visible connection between technical work and business or product outcomes
+- In roles that allow movement across technical layers (e.g., game + backend, or automation + web)
+- With a degree of ownership over implementation decisions
+- In environments that favor practical delivery over heavy process overhead
 
 ## Growth Areas (frame positively in applications)
-- **[AREA_1]:** [HOW_TO_FRAME_IT_POSITIVELY]
-- **[AREA_2]:** [HOW_TO_FRAME_IT_POSITIVELY]
+- **English:** Basic level — a real gap for international roles; frame as "actively developing" and lean on written/async communication where possible
+- **Formal education:** Técnico Medio level — compensated by 6+ years production experience across multiple companies and domains
 
 ## Mapping to Job Posting Language
 
-When a job posting mentions these keywords, it's a **strong behavioral fit**:
-- [KEYWORD_OR_PHRASE_THAT_MATCHES_YOUR_STYLE]
-- [ANOTHER_KEYWORD]
+Strong behavioral fit when a posting mentions:
+- "Fast-paced" / "dynamic environment"
+- "Full-stack" / "cross-functional" responsibilities
+- "Scalable systems" / "real-time" / "performance"
+- "Remote team" / "international team" / "async"
+- "End-to-end ownership" / "you'll own X from start to finish"
 
-When a job posting mentions these, flag as **potential friction** (not deal-breaker):
-- [KEYWORD_OR_PHRASE_THAT_MIGHT_CLASH]
-- [ANOTHER_KEYWORD]
+Potential friction (flag, not deal-breaker):
+- Roles that are 100% maintenance with no new feature development
+- Highly regulated / process-heavy environments with minimal autonomy
 
 ## Management Style Preferences
-- [WHAT_MANAGEMENT_STYLE_WORKS_FOR_YOU]
-- [WHAT_DOESN'T_WORK]
+- Prefers clear goals with autonomy on execution path
+- Works well in flat or collaborative structures
 
 ## Using This in Applications
-- **Cover letters:** [HOW_TO_WEAVE_IN_BEHAVIORAL_STRENGTHS]
-- **CV:** [WHAT_TO_EMPHASIZE]
-- **Interviews:** [WHAT_STAR_EXAMPLES_TO_USE]
-- **Don't overstate:** [WHAT_NOT_TO_CLAIM]
+- **Cover letters:** Lead with concrete impact from past roles; tie the cross-layer technical experience to the employer's specific stack
+- **CV:** Lead each role's bullets with the outcome, not just the activity
+- **Interviews:** ThunderShark (game + full backend) and Bulldog Studio (complete digital system build) are the strongest STAR sources
+- **Don't overstate:** English proficiency — describe as basic/beginner, not intermediate or fluent

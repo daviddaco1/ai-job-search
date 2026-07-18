@@ -13,68 +13,75 @@ This repo is a job application workspace. Claude acts as a career advisor and ap
 
 ## Candidate Profile
 
-<!-- This section is auto-populated by /setup. You can also fill it in manually. -->
-
 ### Identity
-- **Name:** [YOUR_NAME]
-- **Location:** [YOUR_CITY], [YOUR_COUNTRY] ([YOUR_COMMUTE_CONSTRAINTS])
-- **Languages:** [YOUR_LANGUAGES]
-- **Status:** [YOUR_EMPLOYMENT_STATUS]
-- **LinkedIn headline:** "[YOUR_LINKEDIN_HEADLINE]"
+- **Name:** David Andres Cedeño Ortiz (goes by Andres)
+- **Location:** San José de Cúcuta, Norte de Santander, Colombia
+- **Phone:** +573026534479
+- **Email:** daviddaco1998@gmail.com
+- **LinkedIn:** https://www.linkedin.com/in/andres-ortiz-99a619202
+- **Portfolio:** https://portfolio.andresodev.com/
+- **GitHub:** https://github.com/daviddaco1
+- **Languages:** Spanish (Native), English (Basic)
+- **Status:** Currently employed at Bulldog Studio (Sep 2025 – present)
+- **LinkedIn headline:** "Full Stack .NET Developer | Full Stack Engineer | C# | Node.js | REST APIs | Docker | Distributed Systems"
 
 ### Education
-<!-- List your degrees, most recent first -->
-- **[DEGREE_LEVEL] in [FIELD]** ([YEAR_START]-[YEAR_END]) - [INSTITUTION]
-  - Thesis: "[THESIS_TITLE]"
-  - Topics: [KEY_TOPICS]
+- **Técnico Medio en Informática** (2015–2019) - Universidad Nacional Experimental Politécnica "Antonio José de Sucre", Anaco, Venezuela
 
 ### Professional Experience
-<!-- List your roles, most recent first -->
-- **[JOB_TITLE]** ([START_DATE] - [END_DATE]) - **[COMPANY]** ([LOCATION])
-  - [KEY_RESPONSIBILITY_1]
-  - [KEY_RESPONSIBILITY_2]
-  - [KEY_ACHIEVEMENT]
+- **Go High Level Developer | Automatización – Workflows – APIs – SaaS – CRM** (Sep 2025 – Present) - **Bulldog Studio** (Cúcuta, Colombia)
+  - Website and landing page development using Go High Level
+  - Automated workflows, API integration, webhooks, CRM pipelines, lead generation systems
+  - SaaS modules and functionalities within GHL; optimizing business processes
+- **Game Developer 2D/3D | Backend Node.js | APIs & WebSockets | Security | Frontend** (Jun 2024 – Jun 2025) - **ThunderShark** (Cúcuta, Colombia)
+  - 2D/3D games for mobile and desktop; Node.js backend with REST APIs and WebSockets
+  - Databases, IT security, internal tools, and frontend for administrative panels
+- **Junior Game Developer** (Nov 2023 – May 2024) - **Mega Cat Studios** (Cúcuta, Colombia)
+  - 2D/3D mobile and desktop game development; UI/UX, gameplay mechanics, enemy AI
+- **Game Developer | 2D/3D Mobile – UI/UX – API Integration** (Jun 2021 – Oct 2023) - **Coinary LTD** (Cúcuta, remote with international teams)
+  - 2D/3D mobile games; API integration with external servers; real-time data management
+- **Programmer | Web Development & Desktop Applications** (Jun 2018 – Jun 2020) - **INELECSI SL** (Anaco, Venezuela)
+  - Corporate website development; desktop apps for internal processes
+- **Programmer | Game Development | Administrative Apps | Blender 3D** (Jan 2015 – Jan 2018) - **Independent / Autónomo** (Anaco, Venezuela)
+  - Video games, admin apps, Blender 3D modeling, backend solutions
 
 ### Technical Skills
-- **Primary:** [YOUR_PRIMARY_SKILLS]
-- **Secondary:** [YOUR_SECONDARY_SKILLS]
-- **Domain:** [YOUR_DOMAIN_EXPERTISE]
-- **Software:** [YOUR_TOOLS_AND_SOFTWARE]
+- **Primary:** Unity (2D/3D), C#, Node.js, REST APIs, WebSockets, Go High Level
+- **Secondary:** SQL, Docker, IT Security, Systems distribution, UI/UX, Photon, Nakama, APIs & Webhooks, Workflow automation
+- **Domain:** Game development (mobile/desktop), backend systems, CRM/SaaS automation
+- **Software:** Blender (basic), Go High Level, Unity, Photon, Nakama
 
 ### Certifications
-<!-- List relevant certifications with dates -->
-- **[CERTIFICATION_NAME]** - [HOURS]h - completed [DATE]
+- None found in documents
 
 ### Publications
-<!-- List peer-reviewed publications, if any -->
-- [AUTHOR_LIST] ([YEAR]). [TITLE]. [JOURNAL].
+- None found in documents
 
 ### Awards
-<!-- List relevant awards, hackathons, competitions -->
-- [AWARD_NAME] - [EVENT] ([YEAR])
+- None found in documents
 
 ### Behavioral Profile
-<!-- Your behavioral assessment results (PI, DISC, Myers-Briggs, or self-assessment) -->
-- **[TRAIT_1]** - [DESCRIPTION]
-- **[TRAIT_2]** - [DESCRIPTION]
-- **Strengths:** [YOUR_STRENGTHS]
-- **Growth areas:** [YOUR_GROWTH_AREAS]
-- **Thrives in:** [YOUR_IDEAL_ENVIRONMENT]
+- **Pragmatic builder** - moves from idea to working product quickly; delivery-focused
+- **Cross-layer thinker** - comfortable spanning game client, backend, and automation in the same project
+- **Strengths:** Results-orientation, technical breadth, remote collaboration, rapid prototyping
+- **Growth areas:** English proficiency (intermediate), formal credentials (compensated by experience)
+- **Thrives in:** Fast-paced environments with clear goals and autonomy; cross-functional roles
 
 ### What Excites You
-<!-- What motivates you professionally -->
-- [PASSION_1]
-- [PASSION_2]
+- Testing and integrating APIs or new functionalities — the exploration and "does this work?" phase
+- Building systems where you can see the result working end-to-end
+- Roles that keep multiple technical areas active (game dev, backend, automation)
 
 ### Target Sectors
-<!-- Industries and companies you're targeting -->
-- [SECTOR_1]: [EXAMPLE_COMPANIES]
-- [SECTOR_2]: [EXAMPLE_COMPANIES]
+- Game development studios (remote, international): Unity/2D/3D roles
+- SaaS and tech companies: Node.js backend, API, and full-stack roles
+- Marketing/automation agencies: GHL specialists and automation developers
+- Startups: cross-functional software engineer roles
 
 ### Deal-breakers
-<!-- Hard constraints on job search -->
-- [DEALBREAKER_1]
-- [DEALBREAKER_2]
+- Purely on-site roles with no remote option (remote or hybrid in Cúcuta required)
+- Roles below $1,000 USD/month
+- Pure maintenance with no new development work
 
 ## Repo Structure
 - `cv/` - LaTeX CV variants (moderncv template, banking style)

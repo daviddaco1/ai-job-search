@@ -8,32 +8,49 @@ Structure answers as: **Situation** (context), **Task** (your responsibility), *
 
 Keep answers to 1-2 minutes. Be specific. End with what you learned or would do differently.
 
-## Ready-Made STAR Examples
+## STAR Candidates (Complete Manually)
 
-<!-- These are populated by /setup from your actual experience. Below are templates showing the format. -->
+<!-- Stubs extracted from CV and LinkedIn. Fill in the S/T/A/R details from memory before using in interviews. -->
 
-### 1. [PROJECT_NAME] ([SKILL_DEMONSTRATED])
-**S:** [CONTEXT - what was happening, what was the problem]
-**T:** [YOUR RESPONSIBILITY - what you specifically needed to do]
-**A:** [WHAT YOU DID - specific actions, tools, methods]
-**R:** [OUTCOME - measurable results, adoption, impact]
-**Use for:** "[QUESTION_TYPE_1]", "[QUESTION_TYPE_2]"
+### 1. CRM & Automation System Build — Bulldog Studio (End-to-end delivery)
+**Source:** CV + LinkedIn — Bulldog Studio (Sep 2025 – present)
+**What happened:** Built complete Go High Level digital infrastructure for clients: automated workflows, CRM pipelines, SaaS modules, and lead capture systems from scratch
+**Why it matters:** Answers "Tell me about a system you built end-to-end", "Give me an example of delivering measurable business value", "Describe a project where you owned the full technical scope"
+**S/T/A/R stub:**
+- Situation: Bulldog Studio needed to build the digital infrastructure from scratch for several clients. There was no centralized CRM or automated processes, so much of the work was done manually, and it was difficult to track leads.
+- Task: I was responsible for designing and implementing the complete solution: setting up Go High Level, creating sales pipelines, automating processes, integrating forms, and developing custom SaaS modules when native functionalities were not enough.
+- Action: I analyzed each client's business flow and designed the CRM architecture. I configured pipelines, automations, campaigns, forms, and webhooks. When necessary, I developed Node.js services to integrate external APIs, synchronize information across platforms, and extend Go High Level's capabilities. I also documented processes and performed testing to ensure the automations were reliable.
+- Result: Customers gained a fully functional system that significantly reduced manual work and improved lead tracking. Furthermore, the infrastructure was ready to scale with new customers and new automations without requiring a complete redesign of the solution.
 
-### 2. [PROJECT_NAME] ([SKILL_DEMONSTRATED])
-**S:** [CONTEXT]
-**T:** [YOUR RESPONSIBILITY]
-**A:** [WHAT YOU DID]
-**R:** [OUTCOME]
-**Use for:** "[QUESTION_TYPE_1]", "[QUESTION_TYPE_2]"
+### 2. Full-Stack Game + Backend — ThunderShark (Technical breadth)
+**Source:** CV + LinkedIn — ThunderShark (Jun 2024 – Jun 2025)
+**What happened:** Developed 2D/3D games AND built the full Node.js backend (REST APIs, WebSockets, DB, IT security) for the same projects
+**Why it matters:** Answers "Tell me about a complex technical project", "Give me an example of working across the full stack", "How do you handle competing technical responsibilities?"
+**S/T/A/R stub:**
+- Situation: At ThunderShark I participated in projects where it was not only necessary to develop the game logic, but also to build the entire backend infrastructure that allowed real-time communication, authentication and data persistence.
+- Task: My responsibility was to develop both video game functionalities and the complete backend using Node.js, databases, REST APIs and WebSockets, ensuring that both sides evolved in a coordinated manner.
+- Action: I designed and implemented REST APIs, real-time services through WebSockets, authentication systems and persistence with databases. At the same time I developed game mechanics, asset integration and logic in Unity. Coordinated changes between frontend and backend to maintain compatibility and minimize rework, in addition to applying good security and code organization practices.
+- Result: Functional projects were delivered where the player experience and backend services worked in an integrated way. Having worked on both layers allowed us to quickly detect problems and reduce integration times between teams.
 
-### 3. [PROJECT_NAME] ([SKILL_DEMONSTRATED])
-**S:** [CONTEXT]
-**T:** [YOUR RESPONSIBILITY]
-**A:** [WHAT YOU DID]
-**R:** [OUTCOME]
-**Use for:** "[QUESTION_TYPE_1]", "[QUESTION_TYPE_2]"
+### 3. Real-Time API Architecture — Coinary LTD (Systems performance)
+**Source:** CV + LinkedIn — Coinary LTD (Jun 2021 – Oct 2023)
+**What happened:** Integrated APIs and external server connectivity for real-time data management in mobile games, working remotely with international teams
+**Why it matters:** Answers "Tell me about a time you improved system performance or architecture", "Give me an example of API integration work", "Have you worked in remote or international environments?"
+**S/T/A/R stub:**
+- Situation: Coinary developed mobile games that relied on data from external services and required near real-time synchronization. The team was entirely remote and international.
+- Task: My responsibility was to integrate external APIs, ensure stable communication between servers and clients, and maintain adequate performance even as the volume of data exchanged increased.
+- Action: I developed integrations with external APIs, optimized request handling, and optimized data synchronization between servers and mobile applications. I worked closely with developers from different countries, using agile methodologies, code reviews, and continuous communication to resolve issues quickly.
+- Result: The integrations were stable and ensured that the games received reliable, up-to-date data. Furthermore, remote collaboration was efficient thanks to clear communication and adequate technical documentation.
 
-<!-- Add more STAR examples as needed. Aim for 4-6 covering different competencies. -->
+### 4. Enemy AI & Gameplay Systems — Mega Cat Studios (Rapid prototyping)
+**Source:** CV + LinkedIn + Reference letter — Mega Cat Studios (Nov 2023 – May 2024)
+**What happened:** Implemented enemy AI behaviors and gameplay mechanics for 2D/3D games, accelerating prototype-to-playable cycles
+**Why it matters:** Answers "Tell me about a technical challenge in game development", "Give me an example of rapid prototyping under time pressure", "How do you balance quality with speed?"
+**S/T/A/R stub:**
+- Situation: At Mega Cat Studios, prototypes needed to be quickly converted into playable versions to validate mechanics and receive feedback from the design team.
+- Task: My responsibility was to implement enemy behaviors, gameplay mechanics, and tools that would allow for rapid iteration without compromising code quality.
+- Action: I developed AI systems using state machines and modular behaviors, implemented combat and interaction mechanics, and collaborated constantly with designers to adjust difficulty and balance. I prioritized reusable solutions so that changes could be made without affecting other parts of the game.
+- Result: The prototypes were quickly available for internal testing, allowing for frequent iterations and making it easier for the team to validate new ideas before moving to production.
 
 ## Common Tough Questions
 
